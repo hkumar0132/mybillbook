@@ -1,0 +1,51 @@
+.item-header {
+  border-top: 1px solid #eeecec;
+  border-bottom: 1px solid #eeecec;
+  border-right: 1px solid #eeecec;
+  padding: 0.8rem;
+  padding-left: 1.3rem;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.search {
+  width: 20rem;
+  padding-left: 17px;
+}
+
+.search input {
+  background: url('https://img.icons8.com/material-outlined/24/000000/search--v1.png')
+    no-repeat scroll 7px 7px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+th {
+  text-transform: uppercase;
+  height: 50px;
+  background: #f7f7f7;
+  font-weight: 400;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+  line-height: 15px;
+  text-decoration-color: gray;
+}
+
+table,
+th,
+td {
+  border: 2px solid #eeecec;
+  border-collapse: collapse;
+  padding: 1.5rem;
+}

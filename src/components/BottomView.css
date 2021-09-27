@@ -1,0 +1,93 @@
+.statistics {
+  padding: 55px 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.text {
+  font-size: 40px;
+  font-weight: 600;
+  color: #ef7338;
+}
+
+.w-250 {
+  width: 250px;
+}
+
+.border-orange {
+  height: 4px;
+  background-color: #ef7338;
+}
+
+.text-color-orange {
+  font-weight: 600;
+  color: #ef7338 !important;
+  font-size: 36px;
+}
+
+.fs-36 {
+  font-size: 36px;
+}
+
+.text-plan {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.Silver {
+  background-color: #b3b8f7;
+  padding: 1rem;
+}
+
+.Gold {
+  background-color: #f9d9cf;
+  padding: 1rem;
+}
+
+.Diamond {
+  background-color: #fbe2da;
+  padding: 1rem;
+}
+
+.Silver span,
+.Gold span,
+.Diamond span {
+  padding: 1rem;
+  margin-left: 3rem;
+  justify-content: space-between;
+}
+
+.Silver span img,
+.Gold span img,
+.Diamond span img {
+  margin-right: 1rem;
+}
+
+.Silver span {
+  color: #303ff7;
+}
+
+.Gold span {
+  color: #f6d60b;
+}
+
+.Diamond span {
+  color: #f6150b;
+}
+
+.plan {
+  cursor: pointer;
+}
+
+.save {
+  background-color: #4c3cce;
+  color: ghostwhite;
+}
